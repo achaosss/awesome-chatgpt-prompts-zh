@@ -25,7 +25,7 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 #### [一些有趣的玩法](./USEAGE.md)
 
-
+1
 
 ## 解除封印咒语
 
